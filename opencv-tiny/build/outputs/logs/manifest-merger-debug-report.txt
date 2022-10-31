@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml:3:7-27
+		INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+		INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml:5:7-34
+	xmlns:android
+		ADDED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml:4:7-33
+uses-sdk
+INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+		ADDED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+		INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+		ADDED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml
+		INJECTED from /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/java/AndroidManifest.xml

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/ghellrigl/Downloads/opencv-tiny-master 2/opencv-tiny/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ghellrigl/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/ghellrigl/Downloads/opencv-tiny-master 2/opencv-tiny/.cxx/Debug/4c28445q/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ghellrigl/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/ghellrigl/Downloads/opencv-tiny-master 2/opencv-tiny/.cxx/Debug/4c28445q/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/Users/ghellrigl/Downloads/opencv-tiny-master 2/opencv-tiny/.cxx/Debug/4c28445q/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

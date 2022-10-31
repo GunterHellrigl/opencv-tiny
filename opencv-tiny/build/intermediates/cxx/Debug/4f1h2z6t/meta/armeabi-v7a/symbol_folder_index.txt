@@ -1,0 +1,1 @@
+/Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/build/intermediates/cxx/Debug/4f1h2z6t/obj/armeabi-v7a

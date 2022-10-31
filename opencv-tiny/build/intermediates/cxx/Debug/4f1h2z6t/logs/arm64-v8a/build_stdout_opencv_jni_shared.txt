@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/.cxx/Debug/4f1h2z6t/arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,4 @@
+/Users/ghellrigl/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/ghellrigl/gunter/android/opencv-tiny-sample/opencv-tiny/.cxx/Debug/4f1h2z6t/x86 \
+  opencv_jni_shared
